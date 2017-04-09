@@ -16,6 +16,7 @@ public class TC_0001  extends CreateDriver{
 		
 		driver.findElementById("email").sendKeys("Hjello");
 		driver.findElementById("email").sendKeys("Hjello");
+		driver.findElementById("email").sendKeys("Hjello");
 		
 	}
 
